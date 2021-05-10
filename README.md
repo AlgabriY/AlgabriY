@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Algabri
-- 👀 I’m interested in gene co-expression network construction and analysis
+- 👀 I’m interested in gene co-expression network construction and analysis in the field of Bioinformatics
 - 🌱 I’m currently learning R coding for single cell analysis, DE and GCN
 - 💞️ I’m looking to collaborate on projects related to single cell data analysis and gene co-espression analysis and related topics
 - 📫 How to reach me algabri100@outlook.com
